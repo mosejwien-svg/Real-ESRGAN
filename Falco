@@ -1,0 +1,6 @@
+realesrgan-ncnn-vulkan -i "Falco Out of the Dark Live 1997.mp4" -o "Falco_Out_of_the_Dark_1997_1080p.mp4" -s 2
+
+
+
+
+
